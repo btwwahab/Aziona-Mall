@@ -17,7 +17,7 @@
                     </p>
                     <a href="{{ route('shop') }}" class="btn">Shop Now</a>
                 </div>
-                <img src="{{ asset('assets/img/main-2.png') }}"ZZ class="home__img" alt="hats" />
+                <img src="{{ asset('assets/img/home-img.png') }}" class="home__img" alt="hats" />
             </div>
         </section>
 
